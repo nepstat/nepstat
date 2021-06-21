@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5565993343218&text=Hey, Olá :)" >
+<a href="https://api.whatsapp.com/send?phone=5565999640355&text=Hey, Olá :)" >
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
